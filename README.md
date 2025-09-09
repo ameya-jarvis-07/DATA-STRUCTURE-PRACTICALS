@@ -1,5 +1,7 @@
 # DATA-STRUCTURE-PRACTICALS
 This repo is a collection of all the practical I did while being in 2nd year (3rd semester) [2025-26] 
+
+
 🚀 Data Structures Practical Programs – README
 📚 Overview
 This README covers interactive and single-run C programs for classic data structure and algorithm practicals. Each practical is explained with its features, a code summary, and how to run it.

@@ -114,11 +114,11 @@ This README covers interactive and single-run C programs for classic data struct
 ## ⚙️ Compilation and Execution Instructions
 1.	Ensure a C compiler (such as gcc) is installed. 🛠️
 
-2.	Compile: gcc PracticalN.c -o PracticalN
+2.	Compile:    gcc PracticalN.c -o PracticalN
 
 (Replace N with practical number, eg: gcc Practical7.c -o Practical7)
 
-3.	Execute: ./PracticalN
+3.	Execute:   ./PracticalN
 
  
 ## 💡 Notes
@@ -133,4 +133,3 @@ This README covers interactive and single-run C programs for classic data struct
 •	All outputs appear directly on terminal/console.
  
 ## 🎓 End of README
-⁂

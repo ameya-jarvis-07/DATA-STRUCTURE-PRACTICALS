@@ -131,5 +131,3 @@ This README covers interactive and single-run C programs for classic data struct
 •	Input/output done via scanf/printf; no file operations involved.
 
 •	All outputs appear directly on terminal/console.
- 
-# 🎓

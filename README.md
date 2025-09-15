@@ -132,4 +132,4 @@ This README covers interactive and single-run C programs for classic data struct
 
 •	All outputs appear directly on terminal/console.
  
-## 🎓 End of README
+### 🎓

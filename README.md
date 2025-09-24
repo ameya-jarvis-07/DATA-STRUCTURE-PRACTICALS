@@ -111,14 +111,12 @@ This README covers interactive and single-run C programs for classic data struct
 
 •	Usage: Enter options for AVL tree management; supports in/post/pre-order traversals.
 
-### 1️⃣6️⃣A Practical16a.c – Graph
-•   Builds adjacency matrix with user input.
+### 1️⃣6️⃣A GraphTraversal.c – Graph Traversal 🔗
+•   Adjacency Matrix based Graph: supports BFS and DFS.
 
-•   Allows choosing directed or undirected graph.
+•   Run: Interactive menu-driven structure with user input for vertices, edges, and start vertex.
 
-•   Implements BFS with a manual queue.
-
-•   Implements DFS recursively. 
+•   Usage: Enter number of vertices/edges, input edges, then choose traversal (BFS/DFS) to explore the graph. 
  
 ## ⚙️ Compilation and Execution Instructions
 1.	Ensure a C compiler (such as gcc) is installed. 🛠️

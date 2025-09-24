@@ -117,7 +117,28 @@ This README covers interactive and single-run C programs for classic data struct
 •   Run: Interactive menu-driven structure with user input for vertices, edges, and start vertex.
 
 •   Usage: Enter number of vertices/edges, input edges, then choose traversal (BFS/DFS) to explore the graph. 
- 
+
+### 1️⃣6️⃣B GraphTraversalList.c – Graph Traversal (Adjacency List) 🔗
+•   Adjacency List based Graph: supports BFS and DFS.
+
+•   Run: Interactive menu-driven structure with user input for vertices, edges, and start vertex.
+
+•   Usage: Enter number of vertices/edges, input edges, then choose traversal (BFS/DFS) to explore the graph.
+
+### 1️⃣7️⃣A DFSMatrix.c – Graph Traversal (DFS Recursion) 🔗
+•   Adjacency Matrix based Graph: supports DFS using recursion.
+
+•   Run: Interactive input with vertices, edges, and start vertex.
+
+•   Usage: Enter graph structure, then run DFS to explore nodes recursively.
+
+### 1️⃣7️⃣B DFSListStack.c – Graph Traversal (DFS with Stack) 🔗
+•   Adjacency List based Graph: implements DFS using an explicit stack (iterative).
+
+•   Run: Interactive input with vertices, edges, and start vertex.
+
+•   Usage: Enter graph structure, then perform DFS traversal iteratively with stack simulation.
+
 ## ⚙️ Compilation and Execution Instructions
 1.	Ensure a C compiler (such as gcc) is installed. 🛠️
 
